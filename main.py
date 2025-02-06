@@ -158,6 +158,6 @@ class TeneoAutoref:
 
 # Example usage:
 if __name__ == "__main__":
-    referral_code = "YOUR_REFERRAL_CODE_HERE"  # Replace with your actual referral code
+    referral_code = "EwaRb"  # Replace with your actual referral code
     bot = TeneoAutoref(referral_code)
     bot.run(num_accounts=5)  # Change the number of accounts to generate
